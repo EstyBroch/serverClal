@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PxtUAvcIOB6BBPRC/01hoWPZ1oSZbS88QPtUUNEM/ARqH1XMjSpst37HzyXkP/bHNxIc18Mn5tPYo1hlZfS8Cw==",
+  "dgSpecHash": "34tHyf7tZ7b3tnhRn+ZZSz7IOWAAa/7GyZMLpUI5Cvqdmf+yAg0S6FpvJHhPLFKGRtkbRKsZz7jwW+5zC2ilVg==",
   "success": true,
-  "projectFilePath": "C:\\esti\\clal\\my-app\\MyProject\\MyProject.API\\MyProject.WebAPI.csproj",
+  "projectFilePath": "C:\\esti\\clal\\works\\MyProject\\MyProject.API\\MyProject.WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

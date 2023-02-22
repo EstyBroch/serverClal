@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uCRWk/r7X0uKVc2poqKNq7ASYEylswWfs2WEyEDZNiRmBM4q14knDLZJF5wO5w30haOiWA3sZtw8wfgDjpbkAw==",
+  "dgSpecHash": "V/Cs4gYSAkq8X4sXj7Wv8efWdCUFq1nStqsGeiRGAW9qOooohoZRyBNaXuMsdE+cSPlIggYBYgX0+zHJCY9WNQ==",
   "success": true,
-  "projectFilePath": "C:\\esti\\clal\\my-app\\MyProject\\MyProject.Services\\MyProject.Services.csproj",
+  "projectFilePath": "C:\\esti\\clal\\works\\MyProject\\MyProject.Services\\MyProject.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

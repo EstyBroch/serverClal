@@ -129,3 +129,15 @@ C:\esti\clal\my-app\MyProject\MyProject.Services\obj\Debug\net6.0\MyProject.Serv
 C:\esti\clal\my-app\MyProject\MyProject.Services\obj\Debug\net6.0\refint\MyProject.Services.dll
 C:\esti\clal\my-app\MyProject\MyProject.Services\obj\Debug\net6.0\MyProject.Services.pdb
 C:\esti\clal\my-app\MyProject\MyProject.Services\obj\Debug\net6.0\ref\MyProject.Services.dll
+C:\esti\clal\works\MyProject\MyProject.Services\bin\Debug\net6.0\MyProject.Services.deps.json
+C:\esti\clal\works\MyProject\MyProject.Services\bin\Debug\net6.0\MyProject.Services.dll
+C:\esti\clal\works\MyProject\MyProject.Services\bin\Debug\net6.0\MyProject.Services.pdb
+C:\esti\clal\works\MyProject\MyProject.Services\obj\Debug\net6.0\MyProject.Services.csproj.AssemblyReference.cache
+C:\esti\clal\works\MyProject\MyProject.Services\obj\Debug\net6.0\MyProject.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\esti\clal\works\MyProject\MyProject.Services\obj\Debug\net6.0\MyProject.Services.AssemblyInfoInputs.cache
+C:\esti\clal\works\MyProject\MyProject.Services\obj\Debug\net6.0\MyProject.Services.AssemblyInfo.cs
+C:\esti\clal\works\MyProject\MyProject.Services\obj\Debug\net6.0\MyProject.Services.csproj.CoreCompileInputs.cache
+C:\esti\clal\works\MyProject\MyProject.Services\obj\Debug\net6.0\MyProject.Services.dll
+C:\esti\clal\works\MyProject\MyProject.Services\obj\Debug\net6.0\refint\MyProject.Services.dll
+C:\esti\clal\works\MyProject\MyProject.Services\obj\Debug\net6.0\MyProject.Services.pdb
+C:\esti\clal\works\MyProject\MyProject.Services\obj\Debug\net6.0\ref\MyProject.Services.dll

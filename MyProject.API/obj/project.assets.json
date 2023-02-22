@@ -1436,11 +1436,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\esti\\clal\\my-app\\MyProject\\MyProject.API\\MyProject.WebAPI.csproj",
+      "projectUniqueName": "C:\\esti\\clal\\works\\MyProject\\MyProject.API\\MyProject.WebAPI.csproj",
       "projectName": "MyProject.WebAPI",
-      "projectPath": "C:\\esti\\clal\\my-app\\MyProject\\MyProject.API\\MyProject.WebAPI.csproj",
+      "projectPath": "C:\\esti\\clal\\works\\MyProject\\MyProject.API\\MyProject.WebAPI.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\esti\\clal\\my-app\\MyProject\\MyProject.API\\obj\\",
+      "outputPath": "C:\\esti\\clal\\works\\MyProject\\MyProject.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -1464,8 +1464,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\esti\\clal\\my-app\\MyProject\\MyProject.Services\\MyProject.Services.csproj": {
-              "projectPath": "C:\\esti\\clal\\my-app\\MyProject\\MyProject.Services\\MyProject.Services.csproj"
+            "C:\\esti\\clal\\works\\MyProject\\MyProject.Services\\MyProject.Services.csproj": {
+              "projectPath": "C:\\esti\\clal\\works\\MyProject\\MyProject.Services\\MyProject.Services.csproj"
             }
           }
         }
