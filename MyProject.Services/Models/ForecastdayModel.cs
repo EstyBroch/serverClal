@@ -10,6 +10,6 @@ namespace MyProject.Services.Models
     {
         public string Date { get; set; }
         public DayModel Day { get; set; }
-
+        public List<HourModel> Hour { get; set; }
     }
 }
