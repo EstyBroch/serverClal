@@ -29,8 +29,6 @@ namespace MyProject.WebAPI.Controllers
         {
             var response = await _forecastService.GetWeatherAsync(location, null);
             return _forecastService.GetWeatherMsg(response, location);
-
         }
-
     }
 }

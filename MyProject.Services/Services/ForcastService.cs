@@ -13,6 +13,7 @@ namespace MyProject.Services.Services
     public class ForcastService : IForecastService
     {
         private readonly HttpClient _httpClient;
+
         public ForcastService(HttpClient httpClient)
         {
             _httpClient = httpClient;
@@ -37,5 +38,6 @@ namespace MyProject.Services.Services
         }
     }
 
-
 }
+
+

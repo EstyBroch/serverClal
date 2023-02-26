@@ -12,13 +12,6 @@ namespace MyProject.Services.Models
         public string text { get; set; }
         public string code { get; set; }
         public string icon { get; set; }
-        //public string wind_mph { get; set; }
-        //public string wind_mph { get; set; }
-        //public string wind_mph { get; set; }
-        //public string wind_mph { get; set; }
-        //public string wind_mph { get; set; }
-
-
 
     }
 }

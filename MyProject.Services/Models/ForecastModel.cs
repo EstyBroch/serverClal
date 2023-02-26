@@ -10,5 +10,5 @@ namespace MyProject.Services.Model
     public class ForecastModel
     {
     public List<ForecastdayModel> Forecastday { get; set; }
-}
+    }
 }

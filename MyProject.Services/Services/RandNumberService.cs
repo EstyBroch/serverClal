@@ -15,22 +15,15 @@ namespace MyProject.Services.Services
         public RandNumberService() { }
         public int GetRandNumber(int n1, int n2)
         {
-            int temp = 0;
+            int temp ,n;
             if (n1 > n2)
             {
                 temp = n1;
                 n1 = n2;
                 n2 = temp;
             }
-            int n = DateTime.Now.Millisecond % n2;
-            while (n > n2 || n < n1)
-            {
-                if (n > n2)
-                    n -= DateTime.Now.Millisecond % n2;
-                if (n <n1)
-                    n += DateTime.Now.Millisecond % n2;
-            }
-
+            n = DateTime.Now.Millisecond;
+            n = n % (n2 - n1 + 1) + n1;
             return n;
         }
 
